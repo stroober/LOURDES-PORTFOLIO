@@ -1,4 +1,4 @@
-/* work.css — page-specific layout for work.html */
+/* work.css */
 
 .project-card {
   display: grid;
@@ -24,7 +24,7 @@
 .project-info h2 { font-size: clamp(1.7rem, 3vw, 2.2rem); margin-bottom: 0.6rem; }
 .project-info .skill-strip { margin: 1.1rem 0 1.3rem; }
 
-/* GitHub link wrapper */
+/* GitHub link */
 .project-link-wrapper {
   margin-top: 1.2rem;
 }
